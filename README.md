@@ -31,7 +31,7 @@ Bar plots and scatter plots were used to analyze the data and correlation
 A complete overview of the data can be found here
 [**Data Description**](https://www.kaggle.com/c/dsir-bluebird-project-2-regression-challenge/data)
 
-|   Variable Type  	|                                                              Definition                                                              	|
+|  Type  	|                                                              Definition                                                              	|
 |:----------:	|:-------------------------------------------------------------------------------------------------------------------------------------:	|
 |   Nominal  	|                            variables that have two or more categories, but which do not have an intrinsic order                     	|
 |   Ordinal  	|         variables that have two or more categories just like nominal variables only the   categories can also be ordered or ranked. 	|
