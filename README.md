@@ -24,17 +24,17 @@ Descriptive statistics were generated for Train data
 
 ## Data Visualization
 
-Histogram, bar plots and scatter plots were used to analyze the data and correlation
+Bar plots and scatter plots were used to analyze the data and correlation
 
 # **Data Dictionary**
 
 A complete overview of the data can be found here
 [**Data Description**](https://www.kaggle.com/c/dsir-bluebird-project-2-regression-challenge/data)
 
-|    Type 	|                                                              Definition                                                              	|
+|   Variable Type  	|                                                              Definition                                                              	|
 |:----------:	|:-------------------------------------------------------------------------------------------------------------------------------------:	|
-|   Nominal  	|                            variables that   have two or more categories, but which do not have an intrinsic order                     	|
-|   Ordinal  	|         variables   that have two or more categories just like nominal variables only the   categories can also be ordered or ranked. 	|
+|   Nominal  	|                            variables that have two or more categories, but which do not have an intrinsic order                     	|
+|   Ordinal  	|         variables that have two or more categories just like nominal variables only the   categories can also be ordered or ranked. 	|
 |  Discrete  	|                                           variables, wherein the values can be obtained by counting                                   	|
 | Continuous 	|                                                       variables that measure something                                                	|
 
